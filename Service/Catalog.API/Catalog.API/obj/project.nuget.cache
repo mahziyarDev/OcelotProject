@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfSMLk8X2QEE02m+P1iVl1EyJMSx4yF3Bh7SXOsblt0XHfdXmOOHZ/pSUi2h2pNr6rTWWbJSke3p0IZDz4oiKg==",
+  "success": true,
+  "projectFilePath": "E:\\DevTube\\WebAPI React\\Session14\\Projects\\OnlineShopMicroserviceSample\\Services\\Catalog.API\\Catalog.API\\Catalog.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mohsen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
